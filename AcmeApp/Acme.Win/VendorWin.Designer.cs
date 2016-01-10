@@ -109,6 +109,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.CompanyNameTextBox);
             this.Controls.Add(this.label1);
+            this.Location = new System.Drawing.Point(500, 100);
             this.MinimumSize = new System.Drawing.Size(301, 187);
             this.Name = "VendorWin";
             this.Text = "Vendor Detail";
